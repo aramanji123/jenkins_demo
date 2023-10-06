@@ -1,2 +1,2 @@
 # jenkins_demo
-This jenkins is used for pipeline scripts development
+This Repository is used for pipeline scripts development
